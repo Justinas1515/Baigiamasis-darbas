@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "sGR4+AANv4lEgd9BA1Wf7xy4vm6CRU1ePN25UFqj3/hKVrn7EyDhQ0BSqxa2+X9ztwia1VadGaQWj5o2lbw02w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gunit\\source\\repos\\Bagiamasis Darbas\\Bagiamasis Darbas\\Bagiamasis Darbas Tax.lt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gunit\\.nuget\\packages\\microsoft.codecoverage\\17.4.0\\microsoft.codecoverage.17.4.0.nupkg.sha512",
+    "C:\\Users\\Gunit\\.nuget\\packages\\microsoft.net.test.sdk\\17.4.0\\microsoft.net.test.sdk.17.4.0.nupkg.sha512",
+    "C:\\Users\\Gunit\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Gunit\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.4.0\\microsoft.testplatform.objectmodel.17.4.0.nupkg.sha512",
+    "C:\\Users\\Gunit\\.nuget\\packages\\microsoft.testplatform.testhost\\17.4.0\\microsoft.testplatform.testhost.17.4.0.nupkg.sha512",
+    "C:\\Users\\Gunit\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Gunit\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Gunit\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\Gunit\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\Gunit\\.nuget\\packages\\nunit3testadapter\\4.3.1\\nunit3testadapter.4.3.1.nupkg.sha512",
+    "C:\\Users\\Gunit\\.nuget\\packages\\selenium.support\\4.7.0\\selenium.support.4.7.0.nupkg.sha512",
+    "C:\\Users\\Gunit\\.nuget\\packages\\selenium.webdriver\\4.7.0\\selenium.webdriver.4.7.0.nupkg.sha512",
+    "C:\\Users\\Gunit\\.nuget\\packages\\selenium.webdriver.chromedriver\\108.0.5359.7100\\selenium.webdriver.chromedriver.108.0.5359.7100.nupkg.sha512",
+    "C:\\Users\\Gunit\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
